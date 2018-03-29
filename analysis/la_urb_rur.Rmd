@@ -33,6 +33,8 @@ For now, as I am pushed for time, I am going to cut the data from the Excel file
 
 For clarity I am using the 3rd sheet ("CA8FOLD") from the excel workbook entitled "pop_tables.xlsx" in this projects `data` folder. 
 
+All the project documents are available in the [github repo](https://github.com/davidhen/rural_urban)
+
 ```{r load}
 pop_table <- data.frame(stringsAsFactors=FALSE,
               Council.Area = c("Aberdeen City", "Aberdeenshire", "Angus",
