@@ -108,7 +108,7 @@ pop_table$class <- factor(pop_table$class,
 
 #Visualise
 
-Ready to plot now
+Ready to plot now. I am using the `ggthemr` package for themes. Only found it today and *love* it!!!
 
 ```{r plot, fig.width=12, fig.height=12}
 pop_table %>% 
