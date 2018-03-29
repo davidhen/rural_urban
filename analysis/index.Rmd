@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Project Home Page"
 output:
   html_document:
     toc: false
@@ -11,3 +11,5 @@ A quick analysis to visualise the new Scottish Urban Rural Classification.
 Full details (and downloadable reports/data) for the classification are available [here](http://www.gov.scot/Publications/2018/03/6040).
 
 My first visualisation (along with code), can be seen [here](la_urb_rur.html)
+
+[Website Home Page](http://davidhen.com/)
